@@ -16,7 +16,7 @@ from core.innovation import InnovationSpark
 
 
 def run():
-    print("🛡 CodeGuardian Activated")
+    print("🛡  Activated")
     print("🔒 Secure | 🧱 Stable | 💡 Innovative\n")
 
     security = SecurityLayer()
