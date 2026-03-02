@@ -1,7 +1,7 @@
 # ================================
 # Project: CodeGuardian
 # Description:
-# A guardian repository meant for secure, stable,
+# A guardian-l repository meant for secure, stable,
 # and well-crafted code with a spark of innovation.
 # ================================
 
