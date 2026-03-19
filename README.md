@@ -1,5 +1,5 @@
 # ================================
-# Project: CodeGuardians.
+# Project: CodeGuardi
 # Description:
 # A guardian-like repository meant for secure, stable,
 # and well-crafted code with a spark of innovation.
