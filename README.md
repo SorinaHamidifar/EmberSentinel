@@ -12,7 +12,7 @@ Main entry point for CodeGuardian.
 
 from core.security import SecurityLayer
 from core.stability import StabilityMonitor
-from core.innovation import Innovate
+from core.innovation import Innova
 
 
 def run():
