@@ -10,7 +10,7 @@
 Main entry point for CodeGuardian.
 """
 
-from core.security import Secur
+from core.security import SecurityL
 from core.stability import StabilityMonitor
 from core.innovation import InnovationSpark
 
