@@ -2,7 +2,7 @@
 # Project: CodeGuardian
 # Description:
 # A guardian-like repository meant for secure, stable,
-# and well code with a spark of innovation.
+# and well- code with a spark of innovation.
 # ================================
 
 # ---------- main.py ----------
