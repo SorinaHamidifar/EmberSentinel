@@ -1,5 +1,5 @@
 # ================================
-# Project: CodeGuardian for Main entry po
+# Project: CodeGuardian for Main entry 
 # Description:
 # A guardian-like repository meant for secure, stable,
 # and well-crafted code with a spark of innovation.
