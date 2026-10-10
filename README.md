@@ -1,5 +1,5 @@
 # ================================
-# Project: CodeGuardian  meant for secure, \
+# Project: CodeGuardian  meant for se
 # Description:
 # A guardian-like repository meant for secure, stable,
 # and well-crafted code with a spark of innovation.
