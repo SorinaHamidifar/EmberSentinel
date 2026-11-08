@@ -11,7 +11,7 @@ Main entry point for CodeGuardian.
 """
 
 from core.security import SecurityLayer
-from core.stability import StabilityMonitors
+from core.stability import StabilityMonitor
 from core.innovation import InnovationSpark
 
 
